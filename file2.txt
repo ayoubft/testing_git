@@ -1,1 +1,1 @@
-This the second file for the git repo
+This the second file for the git repo.
