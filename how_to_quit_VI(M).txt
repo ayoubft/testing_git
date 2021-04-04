@@ -1,0 +1,6 @@
+To quit vi(m) you have to follow this steps below in order:
+  1. DO NOT PANIC
+  2. Click this sequence on your keyboard (it should appear in the bottom):
+      :q
+      :q!
+      :wq
